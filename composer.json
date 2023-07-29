@@ -9,7 +9,8 @@
       "src/tasks/kyu7/DescendingOrder/descendingOrder.php",
       "src/tasks/kyu7/TwoToOne/longest.php",
       "src/tasks/kyu8/CountOfPositivesSumOfNegatives/countPositivesSumNegatives.php",
-      "src/tasks/kyu8/SumArrays/sum.php"
+      "src/tasks/kyu8/SumArrays/sum.php",
+      "src/tasks/kyu8/ConvertABooleanToAString/booleanToString.php"
     ],
     "psr-4": {
       "Tasks\\": [
